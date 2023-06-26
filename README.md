@@ -1,5 +1,5 @@
 # deepspeed
 
 ```bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://ghproxy.com/https://raw.githubusercontent.com/Ireoo/deepspeed/main/init.sh)"
 ```
